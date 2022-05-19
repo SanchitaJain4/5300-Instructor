@@ -12,6 +12,7 @@ $ ./sql5300 ~/cpsc5300/data
 - <code>Milestone2</code> is the instructor's attempt to complete the Milestone 2 assignment.
 - <code>Milestone3_prep</code> has the instructor-provided files for Milestone 3. The students' work is in <code>SQLExec.cpp</code> labeled with <code>FIXME</code>.
 - <code>Milestone4_prep</code> has the instructor-provided files for Milestone 4. The students' work is in <code>SQLExec.cpp</code> labeled with <code>FIXME</code>.
+- <code>Milestone4</code> has the instructor's attempt to complete both the Milestone 3 and Milestone 4 assignments.
 ## Unit Tests
 There are some tests for SlottedPage and HeapTable. They can be invoked from the <code>SQL</code> prompt:
 ```sql
